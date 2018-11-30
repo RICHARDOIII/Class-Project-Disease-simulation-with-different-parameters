@@ -1,6 +1,6 @@
 Compile the first main
 
-1: Creating the objects
+# 1: Creating the objects
 type in 
 icpc -c main.cc
 icpc -c person.cc
